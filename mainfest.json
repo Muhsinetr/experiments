@@ -1,0 +1,20 @@
+{
+    "name":"thajveed",
+    "short_name": "My app",
+    "start_url":".",
+    "background_color": "white",
+    "theme_color": "#009578",
+    "display": "standalone",
+    "icons":[
+        {
+            "src": "icons8-phone-150.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "icons8-phone-500.png",
+            "sizes": "500x500",
+            "type": "image/png"
+        }
+    ]
+}
